@@ -1,4 +1,4 @@
-# Ganesh kumawat
+# 
 
 _Senior Software engineer based in Edinburgh UK_ <br>
 
