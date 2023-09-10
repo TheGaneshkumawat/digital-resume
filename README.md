@@ -1,6 +1,6 @@
 # Ganesh kumawat
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_Senior Software engineer based in Edinburgh UK_ <br>
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
